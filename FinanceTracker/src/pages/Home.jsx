@@ -20,7 +20,7 @@ export default function Home() {
       <section className='features'>
         <div className='feature-card'>
           <h3>Track Expenses</h3>
-          <p>Log daily expenses and categorize them to see where your money goes.</p>
+          <p>Log daily expenses and categorize them to see where your money goes. Keep a track, and manage your expenses in a better way than ever before.</p>
         </div>
 
         <div className='feature-card'>
